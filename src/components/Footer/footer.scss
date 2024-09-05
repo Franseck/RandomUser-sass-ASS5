@@ -1,0 +1,39 @@
+@import "../../scss/variables";
+
+.last {
+  height: 5rem;
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: rgba(146, 73, 9, 0.616);
+  font-family: "Nothing You Could Do", cursive;
+padding-top: 2rem;
+color: $duck-on-the-ocean-2-2-rgba
+}
+
+.footer-div {
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+.brand {
+  color: grey;
+  font-weight: bold;
+  margin-right: 1.5rem;
+}
+.anth{
+  display: flex;
+  background-color: White;
+  height: 3rem;
+  font-size: 1.5rem;
+  color: #9d4d8c;
+  border: 0.5px solid #9d4d8c;
+  border-radius: 5px;
+  margin:30px 0px;
+  height: 55px;
+  justify-content: center;
+align-items: center;
+padding: 1rem;
+
+}
